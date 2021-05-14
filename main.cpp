@@ -20,8 +20,16 @@
 #include "day_02/leet_704/leet_704.h"
 #include "day_02/leet_1752/leet_1752.h"
 
-int main() {
+#include "day_04/leet_700/leet_700.h"
+#include "day_04/leet_79/leet_79.h"
+#include "day_04/leet_1268/leet_1268.h"
+#include "day_04/leet_384/leet_384.h"
+#include "day_04/leet_155/leet_155.h"
+#include "day_04/leet_232/leet_232.h"
+#include "day_04/leet_225/leet_225.h"
 
+
+int main() {
 
     return 0;
 }
